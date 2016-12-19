@@ -1,6 +1,6 @@
 {
-  "name": "webdrivercss-custom-v4-compatible",
-  "version": "2.0.0beta-rc1.1",
+  "name": "webdrivercss",
+  "version": "2.0.0beta-rc1.2",
   "description": "Regression testing tool for WebdriverJS",
   "author": "Christian Bromann <mail@christian-bromann.com>",
   "license": "MIT",
